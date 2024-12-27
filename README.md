@@ -1,0 +1,3 @@
+Here's a concise project summary:
+
+This Power BI project combines SQL and data visualization to analyze a bike retail shop's performance across 2021-2022. The analysis begins with SQL data preparation, merging multiple datasets through UNION and JOIN operations, followed by creating an interactive dashboard in Power BI. The visualization suite includes temporal analysis (hourly sales patterns, monthly trends), revenue breakdown by season, rider categorization, and key performance metrics. Using DAX calculations and diverse visualization types, the dashboard provides comprehensive insights into sales patterns, customer segmentation, and profitability trends.
